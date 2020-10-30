@@ -1,6 +1,8 @@
 <center><h1>TH-Spyder</h1></center>
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+
+<!--ts-->
+## Table of Contents ##
 * [Background](#background)
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -8,6 +10,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+<!--te-->
 
 ## Background ##
 
