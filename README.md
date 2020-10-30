@@ -57,4 +57,4 @@ See model_template.json
 Work in progress
 
 ## Components
-<img src="uml.png">
+<img src="https://github.com/AntonMaxen/TH-Spyder/blob/master/uml.png">
