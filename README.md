@@ -14,7 +14,7 @@
 
 ## Background ##
 
-It all started with a prototype i made to automate the task of checking if my current course have updated a new lecture, so i built a script with BeatifulSoup, Requests and
+It all started with a prototype i made to automate the task of checking if my current course have updated a new lecture, so i built a script with BeautifulSoup, Requests and
 the discord api wrapper discord.py. It was short and did what i wanted, but it ended at that. If i wanted to scrape another website i had to make another entire program almost, so out came the idea to make one program for all kind of scraping, quick, easy and accessible is what i had in mind. The name TH is coming for the fact that the idea of this project came from the fact that i scraped my schools webplatform where the TH is the name of the school.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
